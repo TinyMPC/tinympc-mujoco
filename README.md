@@ -69,3 +69,12 @@ python3 examples/traj/traj.py --wind
 │       └── traj.py         # Trajectory tracking example
 └── data/                   # Simulation results and metrics
 ```
+
+## Third-Party Assets
+
+This repository includes MuJoCo model/assets in [`mujoco_sim/`](./mujoco_sim) derived from
+[`google-deepmind/mujoco_menagerie`](https://github.com/google-deepmind/mujoco_menagerie),
+specifically `bitcraze_crazyflie_2`.
+
+Those imported assets remain subject to their original MIT license. See
+[`mujoco_sim/LICENSE`](./mujoco_sim/LICENSE).
