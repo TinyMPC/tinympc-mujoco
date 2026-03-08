@@ -1,0 +1,497 @@
+Using warm-started rho: 1.0
+Computing LQR sensitivity
+Computing LQR sensitivity
+Starting trajectory tracking simulation with:
+- Rho adaptation: enabled
+- Cache recomputation: disabled
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.0
+Dual Input Residual: 0.0
+Dual State Residual: 0.0
+Converged after  0  iterations
+nx: 12, nu: 4
+x_prev shape: (12, 15)
+u_prev shape: (4, 14)
+v_prev shape: (12, 15)
+z_prev shape: (4, 14)
+g_prev shape: (12, 15)
+y_prev shape: (4, 14)
+
+Cache contents:
+A shape: (12, 12)
+B shape: (12, 4)
+Q shape: (12, 12)
+R shape: (4, 4)
+Kinf shape: (4, 12)
+Pinf shape: (12, 12)
+C1 shape: (4, 4)
+C2 shape: (12, 12)
+dKinf_drho shape: (4, 12)
+dPinf_drho shape: (12, 12)
+dC1_drho shape: (4, 4)
+dC2_drho shape: (12, 12)
+A_base: (12, 12), B_base: (12, 4)
+Q: (12, 12), R: (4, 4)
+xg: (13,)
+xg[:12]: [0. 0. 0. 1. 0. 0. 0. 0. 0. 0. 0. 0.]
+uhover: [0.58333335 0.58333335 0.58333335 0.58333335]
+
+=== Solve 1 Details ===
+Iterations needed: 0
+
+Accuracy:
+Position error: 0.000000
+Attitude error: 0.000000
+
+Costs:
+State cost: 0.000000
+Input cost: 137.472231
+Total cost: 137.472231
+
+Constraint Violations:
+Input constraints: 1.133333
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.0
+Dual Input Residual: 0.13098076082579874
+Dual State Residual: 1.62300645189007
+Converged after  3  iterations
+nx: 12, nu: 4
+x_prev shape: (12, 15)
+u_prev shape: (4, 14)
+v_prev shape: (12, 15)
+z_prev shape: (4, 14)
+g_prev shape: (12, 15)
+y_prev shape: (4, 14)
+
+Cache contents:
+A shape: (12, 12)
+B shape: (12, 4)
+Q shape: (12, 12)
+R shape: (4, 4)
+Kinf shape: (4, 12)
+Pinf shape: (12, 12)
+C1 shape: (4, 4)
+C2 shape: (12, 12)
+dKinf_drho shape: (4, 12)
+dPinf_drho shape: (12, 12)
+dC1_drho shape: (4, 4)
+dC2_drho shape: (12, 12)
+A_base: (12, 12), B_base: (12, 4)
+Q: (12, 12), R: (4, 4)
+xg: (13,)
+xg[:12]: [0. 0. 0. 1. 0. 0. 0. 0. 0. 0. 0. 0.]
+uhover: [0.58333335 0.58333335 0.58333335 0.58333335]
+
+=== Solve 2 Details ===
+Iterations needed: 3
+
+Accuracy:
+Position error: 0.000793
+Attitude error: 0.000000
+
+Costs:
+State cost: 11.853200
+Input cost: 162.706781
+Total cost: 174.559981
+
+Constraint Violations:
+Input constraints: 1.320286
+State constraints: 0.000000
+
+Rho value: 1.003828
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.8517222372174031
+Dual Input Residual: 0.0641485423005453
+Dual State Residual: 1.738879929317875
+Converged after  42  iterations
+nx: 12, nu: 4
+x_prev shape: (12, 15)
+u_prev shape: (4, 14)
+v_prev shape: (12, 15)
+z_prev shape: (4, 14)
+g_prev shape: (12, 15)
+y_prev shape: (4, 14)
+
+Cache contents:
+A shape: (12, 12)
+B shape: (12, 4)
+Q shape: (12, 12)
+R shape: (4, 4)
+Kinf shape: (4, 12)
+Pinf shape: (12, 12)
+C1 shape: (4, 4)
+C2 shape: (12, 12)
+dKinf_drho shape: (4, 12)
+dPinf_drho shape: (12, 12)
+dC1_drho shape: (4, 4)
+dC2_drho shape: (12, 12)
+A_base: (12, 12), B_base: (12, 4)
+Q: (12, 12), R: (4, 4)
+xg: (13,)
+xg[:12]: [0. 0. 0. 1. 0. 0. 0. 0. 0. 0. 0. 0.]
+uhover: [0.58333335 0.58333335 0.58333335 0.58333335]
+
+=== Solve 3 Details ===
+Iterations needed: 42
+
+Accuracy:
+Position error: 0.003153
+Attitude error: 0.008960
+
+Costs:
+State cost: 47.684840
+Input cost: 176.163908
+Total cost: 223.848748
+
+Constraint Violations:
+Input constraints: 1.440647
+State constraints: 0.000000
+
+Rho value: 1.012102
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.9740614198089004
+Dual Input Residual: 0.056320395516571344
+Dual State Residual: 0.5046743941990703
+nx: 12, nu: 4
+x_prev shape: (12, 15)
+u_prev shape: (4, 14)
+v_prev shape: (12, 15)
+z_prev shape: (4, 14)
+g_prev shape: (12, 15)
+y_prev shape: (4, 14)
+
+Cache contents:
+A shape: (12, 12)
+B shape: (12, 4)
+Q shape: (12, 12)
+R shape: (4, 4)
+Kinf shape: (4, 12)
+Pinf shape: (12, 12)
+C1 shape: (4, 4)
+C2 shape: (12, 12)
+dKinf_drho shape: (4, 12)
+dPinf_drho shape: (12, 12)
+dC1_drho shape: (4, 4)
+dC2_drho shape: (12, 12)
+A_base: (12, 12), B_base: (12, 4)
+Q: (12, 12), R: (4, 4)
+xg: (13,)
+xg[:12]: [0. 0. 0. 1. 0. 0. 0. 0. 0. 0. 0. 0.]
+uhover: [0.58333335 0.58333335 0.58333335 0.58333335]
+
+=== Solve 4 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.007005
+Attitude error: 0.028557
+
+Costs:
+State cost: 97.509631
+Input cost: 187.007360
+Total cost: 284.516991
+
+Constraint Violations:
+Input constraints: 1.521369
+State constraints: 0.008977
+
+Rho value: 1.026205
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.9797993647022301
+Dual Input Residual: 0.06101354712248105
+Dual State Residual: 0.5347964728746695
+nx: 12, nu: 4
+x_prev shape: (12, 15)
+u_prev shape: (4, 14)
+v_prev shape: (12, 15)
+z_prev shape: (4, 14)
+g_prev shape: (12, 15)
+y_prev shape: (4, 14)
+
+Cache contents:
+A shape: (12, 12)
+B shape: (12, 4)
+Q shape: (12, 12)
+R shape: (4, 4)
+Kinf shape: (4, 12)
+Pinf shape: (12, 12)
+C1 shape: (4, 4)
+C2 shape: (12, 12)
+dKinf_drho shape: (4, 12)
+dPinf_drho shape: (12, 12)
+dC1_drho shape: (4, 4)
+dC2_drho shape: (12, 12)
+A_base: (12, 12), B_base: (12, 4)
+Q: (12, 12), R: (4, 4)
+xg: (13,)
+xg[:12]: [0. 0. 0. 1. 0. 0. 0. 0. 0. 0. 0. 0.]
+uhover: [0.58333335 0.58333335 0.58333335 0.58333335]
+
+=== Solve 5 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.012239
+Attitude error: 0.050122
+
+Costs:
+State cost: 168.643756
+Input cost: 194.879510
+Total cost: 363.523265
+
+Constraint Violations:
+Input constraints: 1.578077
+State constraints: 0.025830
+
+Rho value: 1.047154
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 1.1411178020220154
+Dual Input Residual: 0.059364398859507714
+Dual State Residual: 0.39932603284494006
+nx: 12, nu: 4
+x_prev shape: (12, 15)
+u_prev shape: (4, 14)
+v_prev shape: (12, 15)
+z_prev shape: (4, 14)
+g_prev shape: (12, 15)
+y_prev shape: (4, 14)
+
+Cache contents:
+A shape: (12, 12)
+B shape: (12, 4)
+Q shape: (12, 12)
+R shape: (4, 4)
+Kinf shape: (4, 12)
+Pinf shape: (12, 12)
+C1 shape: (4, 4)
+C2 shape: (12, 12)
+dKinf_drho shape: (4, 12)
+dPinf_drho shape: (12, 12)
+dC1_drho shape: (4, 4)
+dC2_drho shape: (12, 12)
+A_base: (12, 12), B_base: (12, 4)
+Q: (12, 12), R: (4, 4)
+xg: (13,)
+xg[:12]: [0. 0. 0. 1. 0. 0. 0. 0. 0. 0. 0. 0.]
+uhover: [0.58333335 0.58333335 0.58333335 0.58333335]
+
+=== Solve 6 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.018734
+Attitude error: 0.072266
+
+Costs:
+State cost: 267.150749
+Input cost: 200.746765
+Total cost: 467.897514
+
+Constraint Violations:
+Input constraints: 1.619435
+State constraints: 0.085004
+
+Rho value: 1.076506
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 1.6935292194624116
+Dual Input Residual: 0.1017457338152763
+Dual State Residual: 0.4121503650166152
+nx: 12, nu: 4
+x_prev shape: (12, 15)
+u_prev shape: (4, 14)
+v_prev shape: (12, 15)
+z_prev shape: (4, 14)
+g_prev shape: (12, 15)
+y_prev shape: (4, 14)
+
+Cache contents:
+A shape: (12, 12)
+B shape: (12, 4)
+Q shape: (12, 12)
+R shape: (4, 4)
+Kinf shape: (4, 12)
+Pinf shape: (12, 12)
+C1 shape: (4, 4)
+C2 shape: (12, 12)
+dKinf_drho shape: (4, 12)
+dPinf_drho shape: (12, 12)
+dC1_drho shape: (4, 4)
+dC2_drho shape: (12, 12)
+A_base: (12, 12), B_base: (12, 4)
+Q: (12, 12), R: (4, 4)
+xg: (13,)
+xg[:12]: [0. 0. 0. 1. 0. 0. 0. 0. 0. 0. 0. 0.]
+uhover: [0.58333335 0.58333335 0.58333335 0.58333335]
+
+=== Solve 7 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.026352
+Attitude error: 0.095263
+
+Costs:
+State cost: 392.878720
+Input cost: 205.450997
+Total cost: 598.329716
+
+Constraint Violations:
+Input constraints: 1.651988
+State constraints: 0.221218
+
+Rho value: 1.114870
+==================================================
+Iteration 0:
+Input Residual: 0.9197351309509851
+State Residual: 18.637269090038664
+Dual Input Residual: 0.48266063505647505
+Dual State Residual: 2.9403052511423997
+nx: 12, nu: 4
+x_prev shape: (12, 15)
+u_prev shape: (4, 14)
+v_prev shape: (12, 15)
+z_prev shape: (4, 14)
+g_prev shape: (12, 15)
+y_prev shape: (4, 14)
+
+Cache contents:
+A shape: (12, 12)
+B shape: (12, 4)
+Q shape: (12, 12)
+R shape: (4, 4)
+Kinf shape: (4, 12)
+Pinf shape: (12, 12)
+C1 shape: (4, 4)
+C2 shape: (12, 12)
+dKinf_drho shape: (4, 12)
+/Users/ishaanmahajan/A2R_Research/workspace/TinyMPCReference/src/quadrotor.py:54: RuntimeWarning: overflow encountered in matmul
+  domg = inv(self.J) @ (-self.hat(omg) @ self.J @ omg +
+/Users/ishaanmahajan/A2R_Research/workspace/TinyMPCReference/src/quadrotor.py:54: RuntimeWarning: invalid value encountered in matmul
+  domg = inv(self.J) @ (-self.hat(omg) @ self.J @ omg +
+/Users/ishaanmahajan/A2R_Research/workspace/TinyMPCReference/src/quadrotor.py:37: RuntimeWarning: invalid value encountered in matmul
+  dq = 0.5 * self.L(q) @ self.H @ omg
+dPinf_drho shape: (12, 12)
+dC1_drho shape: (4, 4)
+dC2_drho shape: (12, 12)
+A_base: (12, 12), B_base: (12, 4)
+Q: (12, 12), R: (4, 4)
+xg: (13,)
+xg[:12]: [0. 0. 0. 1. 0. 0. 0. 0. 0. 0. 0. 0.]
+uhover: [0.58333335 0.58333335 0.58333335 0.58333335]
+
+=== Solve 8 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.034936
+Attitude error: 0.119665
+
+Costs:
+State cost: 540.432394
+Input cost: 211.314085
+Total cost: 751.746479
+
+Constraint Violations:
+Input constraints: 1.681584
+State constraints: 0.436590
+
+Rho value: 1.161790
+==================================================
+Iteration 0:
+Input Residual: 10.151256004405909
+State Residual: 149.93467515352353
+Dual Input Residual: 0.5577030447361467
+Dual State Residual: 4.647158606091753
+nx: 12, nu: 4
+x_prev shape: (12, 15)
+u_prev shape: (4, 14)
+v_prev shape: (12, 15)
+z_prev shape: (4, 14)
+g_prev shape: (12, 15)
+y_prev shape: (4, 14)
+
+Cache contents:
+A shape: (12, 12)
+B shape: (12, 4)
+Q shape: (12, 12)
+R shape: (4, 4)
+Kinf shape: (4, 12)
+Pinf shape: (12, 12)
+C1 shape: (4, 4)
+C2 shape: (12, 12)
+dKinf_drho shape: (4, 12)
+dPinf_drho shape: (12, 12)
+dC1_drho shape: (4, 4)
+dC2_drho shape: (12, 12)
+A_base: (12, 12), B_base: (12, 4)
+Q: (12, 12), R: (4, 4)
+xg: (13,)
+xg[:12]: [0. 0. 0. 1. 0. 0. 0. 0. 0. 0. 0. 0.]
+uhover: [0.58333335 0.58333335 0.58333335 0.58333335]
+
+=== Solve 9 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.044288
+Attitude error: 0.149227
+
+Costs:
+State cost: 716.912427
+Input cost: 442133540079331520.000000
+Total cost: 442133540079332224.000000
+
+Constraint Violations:
+Input constraints: 97315689.167609
+State constraints: 0.836718
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: nan
+State Residual: nan
+Dual Input Residual: nan
+Dual State Residual: nan
+nx: 12, nu: 4
+x_prev shape: (12, 15)
+u_prev shape: (4, 14)
+v_prev shape: (12, 15)
+z_prev shape: (4, 14)
+g_prev shape: (12, 15)
+y_prev shape: (4, 14)
+
+Cache contents:
+A shape: (12, 12)
+B shape: (12, 4)
+Q shape: (12, 12)
+R shape: (4, 4)
+Kinf shape: (4, 12)
+Pinf shape: (12, 12)
+C1 shape: (4, 4)
+C2 shape: (12, 12)
+dKinf_drho shape: (4, 12)
+dPinf_drho shape: (12, 12)
+dC1_drho shape: (4, 4)
+dC2_drho shape: (12, 12)
+A_base: (12, 12), B_base: (12, 4)
+Q: (12, 12), R: (4, 4)
+xg: (13,)
+xg[:12]: [0. 0. 0. 1. 0. 0. 0. 0. 0. 0. 0. 0.]
+uhover: [0.58333335 0.58333335 0.58333335 0.58333335]
+Time in simulation: 0.180000

@@ -1,0 +1,5 @@
+,iterations,iterations,tracking_time,tracking_time,avg_error,avg_error,max_error,max_error,diverged
+,mean,std,mean,std,mean,std,mean,std,sum
+controller,,,,,,,,,
+adaptive,35.46,0.0,,,,,,,0.0
+fixed,35.15,0.0,,,,,,,0.0

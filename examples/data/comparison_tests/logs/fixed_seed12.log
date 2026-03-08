@@ -1,0 +1,4901 @@
+Starting trajectory tracking simulation with:
+- Rho adaptation: disabled
+- Cache recomputation: disabled
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.0
+Dual Input Residual: 0.0
+Dual State Residual: 0.0
+Converged after  0  iterations
+
+=== Solve 1 Details ===
+Iterations needed: 0
+
+Accuracy:
+Position error: 0.000000
+Attitude error: 0.000000
+
+Costs:
+State cost: 0.000000
+Input cost: 137.472231
+Total cost: 137.472231
+
+Constraint Violations:
+Input constraints: 1.133333
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.0
+Dual Input Residual: 0.13098076082579874
+Dual State Residual: 1.62300645189007
+Converged after  3  iterations
+
+=== Solve 2 Details ===
+Iterations needed: 3
+
+Accuracy:
+Position error: 0.000793
+Attitude error: 0.000000
+
+Costs:
+State cost: 11.853200
+Input cost: 162.706781
+Total cost: 174.559981
+
+Constraint Violations:
+Input constraints: 1.320286
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.8577989584196333
+Dual Input Residual: 0.06359494387158382
+Dual State Residual: 1.7322486267702266
+Converged after  42  iterations
+
+=== Solve 3 Details ===
+Iterations needed: 42
+
+Accuracy:
+Position error: 0.003153
+Attitude error: 0.008960
+
+Costs:
+State cost: 47.684840
+Input cost: 176.164845
+Total cost: 223.849685
+
+Constraint Violations:
+Input constraints: 1.440648
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.9984904061931013
+Dual Input Residual: 0.05663354856684008
+Dual State Residual: 0.505972214385038
+
+=== Solve 4 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.007005
+Attitude error: 0.028562
+
+Costs:
+State cost: 97.516794
+Input cost: 187.008501
+Total cost: 284.525295
+
+Constraint Violations:
+Input constraints: 1.521370
+State constraints: 0.009393
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 1.0376943292485432
+Dual Input Residual: 0.061745991028171854
+Dual State Residual: 0.5304977139110412
+
+=== Solve 5 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.012239
+Attitude error: 0.050163
+
+Costs:
+State cost: 168.655510
+Input cost: 194.879470
+Total cost: 363.534980
+
+Constraint Violations:
+Input constraints: 1.578085
+State constraints: 0.029526
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 1.0734547612352472
+Dual Input Residual: 0.05491363108381801
+Dual State Residual: 0.4984156338297365
+
+=== Solve 6 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.018733
+Attitude error: 0.072331
+
+Costs:
+State cost: 267.130176
+Input cost: 200.735546
+Total cost: 467.865722
+
+Constraint Violations:
+Input constraints: 1.619458
+State constraints: 0.076774
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 1.0558648515565343
+Dual Input Residual: 0.05023655483237688
+Dual State Residual: 0.5083893285717609
+
+=== Solve 7 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.026350
+Attitude error: 0.094793
+
+Costs:
+State cost: 393.777608
+Input cost: 205.370111
+Total cost: 599.147719
+
+Constraint Violations:
+Input constraints: 1.651740
+State constraints: 0.106055
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.9816371743611136
+Dual Input Residual: 0.045855734065095466
+Dual State Residual: 0.5073263659762746
+
+=== Solve 8 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.034940
+Attitude error: 0.117128
+
+Costs:
+State cost: 547.722857
+Input cost: 209.377373
+Total cost: 757.100230
+
+Constraint Violations:
+Input constraints: 1.679374
+State constraints: 0.111167
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.8420070372880684
+Dual Input Residual: 0.03938669927270713
+Dual State Residual: 0.40485925661324695
+
+=== Solve 9 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.044333
+Attitude error: 0.139075
+
+Costs:
+State cost: 725.081657
+Input cost: 213.158231
+Total cost: 938.239888
+
+Constraint Violations:
+Input constraints: 1.705246
+State constraints: 0.107723
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 1.1816037538514532
+Dual Input Residual: 0.0490875022892027
+Dual State Residual: 0.4113103206610176
+
+=== Solve 10 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.054341
+Attitude error: 0.160369
+
+Costs:
+State cost: 918.747528
+Input cost: 216.964671
+Total cost: 1135.712199
+
+Constraint Violations:
+Input constraints: 1.731113
+State constraints: 0.057834
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 2.003581159716549
+Dual Input Residual: 0.08862481296884164
+Dual State Residual: 0.41122289225608544
+
+=== Solve 11 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.064750
+Attitude error: 0.180879
+
+Costs:
+State cost: 1118.242251
+Input cost: 220.916236
+Total cost: 1339.158487
+
+Constraint Violations:
+Input constraints: 1.757690
+State constraints: 0.013338
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 2.679974681286673
+Dual Input Residual: 0.12170071817362274
+Dual State Residual: 0.1683448308095986
+
+=== Solve 12 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.075325
+Attitude error: 0.200367
+
+Costs:
+State cost: 1310.570855
+Input cost: 225.033293
+Total cost: 1535.604148
+
+Constraint Violations:
+Input constraints: 1.785201
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 3.2858438108674877
+Dual Input Residual: 0.15117044110751726
+Dual State Residual: 0.44081056513852457
+
+=== Solve 13 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.085801
+Attitude error: 0.218732
+
+Costs:
+State cost: 1480.713084
+Input cost: 229.243396
+Total cost: 1709.956481
+
+Constraint Violations:
+Input constraints: 1.812993
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 3.699558322474754
+Dual Input Residual: 0.17378377724046762
+Dual State Residual: 0.1251749052483085
+
+=== Solve 14 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.095894
+Attitude error: 0.237105
+
+Costs:
+State cost: 1609.834051
+Input cost: 233.653913
+Total cost: 1843.487964
+
+Constraint Violations:
+Input constraints: 1.841342
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 3.8026526319126255
+Dual Input Residual: 0.1807943390414882
+Dual State Residual: 0.9827906877319582
+
+=== Solve 15 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.105285
+Attitude error: 0.254406
+
+Costs:
+State cost: 1686.080013
+Input cost: 238.297145
+Total cost: 1924.377158
+
+Constraint Violations:
+Input constraints: 1.871769
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 3.805062168542791
+Dual Input Residual: 0.18515882367575376
+Dual State Residual: 0.14448240886512742
+
+=== Solve 16 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.113635
+Attitude error: 0.270630
+
+Costs:
+State cost: 1704.220531
+Input cost: 250.808175
+Total cost: 1955.028707
+
+Constraint Violations:
+Input constraints: 1.894829
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.08423630411557997
+State Residual: 3.6375948481587503
+Dual Input Residual: 0.17446223258217836
+Dual State Residual: 3.4370566184682323
+
+=== Solve 17 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.120613
+Attitude error: 0.268995
+
+Costs:
+State cost: 1707.145146
+Input cost: 246.433035
+Total cost: 1953.578181
+
+Constraint Violations:
+Input constraints: 1.922947
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 3.2671188014448713
+Dual Input Residual: 0.16074444022529288
+Dual State Residual: 0.1960791193994169
+
+=== Solve 18 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.126028
+Attitude error: 0.247349
+
+Costs:
+State cost: 1675.752570
+Input cost: 239.028414
+Total cost: 1914.780984
+
+Constraint Violations:
+Input constraints: 1.876340
+State constraints: 0.145426
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 2.5942924125543634
+Dual Input Residual: 0.13039107201156577
+Dual State Residual: 0.11590780218951091
+
+=== Solve 19 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.129895
+Attitude error: 0.224809
+
+Costs:
+State cost: 1615.203675
+Input cost: 222.844463
+Total cost: 1838.048138
+
+Constraint Violations:
+Input constraints: 1.770487
+State constraints: 0.035514
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 1.8028293973643477
+Dual Input Residual: 0.09395064758564925
+Dual State Residual: 0.09019237513656903
+
+=== Solve 20 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.132346
+Attitude error: 0.203760
+
+Costs:
+State cost: 1542.916051
+Input cost: 202.709275
+Total cost: 1745.625326
+
+Constraint Violations:
+Input constraints: 1.633159
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.9715868963440979
+Dual Input Residual: 0.06032834843435608
+Dual State Residual: 0.06221607073039448
+
+=== Solve 21 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.133561
+Attitude error: 0.184248
+
+Costs:
+State cost: 1465.597351
+Input cost: 182.331040
+Total cost: 1647.928391
+
+Constraint Violations:
+Input constraints: 1.486987
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.5356485982341923
+Dual Input Residual: 0.054265882601613524
+Dual State Residual: 0.13481538728576714
+
+=== Solve 22 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.133744
+Attitude error: 0.166381
+
+Costs:
+State cost: 1387.220534
+Input cost: 164.171254
+Total cost: 1551.391788
+
+Constraint Violations:
+Input constraints: 1.346829
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.49661500272101144
+Dual Input Residual: 0.08144386198810569
+Dual State Residual: 0.7088232233349634
+
+=== Solve 23 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.133095
+Attitude error: 0.153160
+
+Costs:
+State cost: 1300.005831
+Input cost: 148.360016
+Total cost: 1448.365847
+
+Constraint Violations:
+Input constraints: 1.222335
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.38252052640271383
+Dual Input Residual: 0.07702490168058564
+Dual State Residual: 0.6759507168814141
+
+=== Solve 24 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.131772
+Attitude error: 0.146414
+
+Costs:
+State cost: 1213.909819
+Input cost: 136.243708
+Total cost: 1350.153528
+
+Constraint Violations:
+Input constraints: 1.122186
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.31813164305851593
+Dual Input Residual: 0.031222001784697875
+Dual State Residual: 0.5700928423004261
+
+=== Solve 25 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.129881
+Attitude error: 0.141025
+
+Costs:
+State cost: 1130.753162
+Input cost: 127.540948
+Total cost: 1258.294109
+
+Constraint Violations:
+Input constraints: 1.047155
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.29291523529783126
+Dual Input Residual: 0.026080238015925322
+Dual State Residual: 0.4327351010059024
+
+=== Solve 26 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.127499
+Attitude error: 0.133744
+
+Costs:
+State cost: 1047.498011
+Input cost: 121.064102
+Total cost: 1168.562113
+
+Constraint Violations:
+Input constraints: 0.989509
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.2734855014461226
+Dual Input Residual: 0.02757545664177931
+Dual State Residual: 0.3636061062278685
+
+=== Solve 27 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.124704
+Attitude error: 0.126264
+
+Costs:
+State cost: 964.969381
+Input cost: 116.061104
+Total cost: 1081.030485
+
+Constraint Violations:
+Input constraints: 0.943750
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.2520515215303232
+Dual Input Residual: 0.024916892600792044
+Dual State Residual: 0.3177922412840999
+
+=== Solve 28 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.121573
+Attitude error: 0.119770
+
+Costs:
+State cost: 885.067697
+Input cost: 112.229127
+Total cost: 997.296824
+
+Constraint Violations:
+Input constraints: 0.908036
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.22992598777888573
+Dual Input Residual: 0.02066694141932926
+Dual State Residual: 0.2700238824994934
+
+=== Solve 29 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.118180
+Attitude error: 0.114583
+
+Costs:
+State cost: 808.905156
+Input cost: 109.454973
+Total cost: 918.360129
+
+Constraint Violations:
+Input constraints: 0.881796
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.20981491529906426
+Dual Input Residual: 0.016647784473605112
+Dual State Residual: 0.22004139551330182
+Converged after  46  iterations
+
+=== Solve 30 Details ===
+Iterations needed: 46
+
+Accuracy:
+Position error: 0.114593
+Attitude error: 0.110836
+
+Costs:
+State cost: 737.176143
+Input cost: 107.671493
+Total cost: 844.847636
+
+Constraint Violations:
+Input constraints: 0.864751
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.19378072281073955
+Dual Input Residual: 0.012521710141296265
+Dual State Residual: 0.16880503353860998
+Converged after  31  iterations
+
+=== Solve 31 Details ===
+Iterations needed: 31
+
+Accuracy:
+Position error: 0.110882
+Attitude error: 0.108610
+
+Costs:
+State cost: 670.443873
+Input cost: 106.844330
+Total cost: 777.288204
+
+Constraint Violations:
+Input constraints: 0.856819
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.18261192843219853
+Dual Input Residual: 0.008730302053955682
+Dual State Residual: 0.1471190273617291
+Converged after  24  iterations
+
+=== Solve 32 Details ===
+Iterations needed: 24
+
+Accuracy:
+Position error: 0.107110
+Attitude error: 0.107675
+
+Costs:
+State cost: 609.229263
+Input cost: 106.961669
+Total cost: 716.190931
+
+Constraint Violations:
+Input constraints: 0.857955
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.1692876659025495
+Dual Input Residual: 0.008243503119676594
+Dual State Residual: 0.1442273101629694
+Converged after  21  iterations
+
+=== Solve 33 Details ===
+Iterations needed: 21
+
+Accuracy:
+Position error: 0.103346
+Attitude error: 0.107811
+
+Costs:
+State cost: 553.678425
+Input cost: 107.991459
+Total cost: 661.669884
+
+Constraint Violations:
+Input constraints: 0.867801
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.15502997225143944
+Dual Input Residual: 0.008058731476605395
+Dual State Residual: 0.13706482062548675
+Converged after  5  iterations
+
+=== Solve 34 Details ===
+Iterations needed: 5
+
+Accuracy:
+Position error: 0.099657
+Attitude error: 0.109107
+
+Costs:
+State cost: 504.083832
+Input cost: 109.930666
+Total cost: 614.014498
+
+Constraint Violations:
+Input constraints: 0.886319
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.0
+Dual Input Residual: 0.010861054802123585
+Dual State Residual: 0.1532618021500387
+Converged after  3  iterations
+
+=== Solve 35 Details ===
+Iterations needed: 3
+
+Accuracy:
+Position error: 0.096111
+Attitude error: 0.111380
+
+Costs:
+State cost: 460.920868
+Input cost: 112.882238
+Total cost: 573.803107
+
+Constraint Violations:
+Input constraints: 0.914107
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.0
+Dual Input Residual: 0.013561693647098465
+Dual State Residual: 0.1827377312308433
+Converged after  3  iterations
+
+=== Solve 36 Details ===
+Iterations needed: 3
+
+Accuracy:
+Position error: 0.092777
+Attitude error: 0.114284
+
+Costs:
+State cost: 424.232267
+Input cost: 116.945108
+Total cost: 541.177375
+
+Constraint Violations:
+Input constraints: 0.951745
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.0
+Dual Input Residual: 0.015139701653544925
+Dual State Residual: 0.20140096429081852
+Converged after  3  iterations
+
+=== Solve 37 Details ===
+Iterations needed: 3
+
+Accuracy:
+Position error: 0.089718
+Attitude error: 0.117564
+
+Costs:
+State cost: 394.165465
+Input cost: 122.265737
+Total cost: 516.431202
+
+Constraint Violations:
+Input constraints: 1.000134
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.0
+Dual Input Residual: 0.017520261068155032
+Dual State Residual: 0.20736864237377392
+Converged after  3  iterations
+
+=== Solve 38 Details ===
+Iterations needed: 3
+
+Accuracy:
+Position error: 0.086993
+Attitude error: 0.120908
+
+Costs:
+State cost: 370.715616
+Input cost: 129.072076
+Total cost: 499.787692
+
+Constraint Violations:
+Input constraints: 1.060572
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.0
+Dual Input Residual: 0.022350030537556527
+Dual State Residual: 0.2046131950534985
+Converged after  3  iterations
+
+=== Solve 39 Details ===
+Iterations needed: 3
+
+Accuracy:
+Position error: 0.084654
+Attitude error: 0.123991
+
+Costs:
+State cost: 353.646824
+Input cost: 137.633760
+Total cost: 491.280584
+
+Constraint Violations:
+Input constraints: 1.134360
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.0
+Dual Input Residual: 0.027024248617347264
+Dual State Residual: 0.18389013170120375
+Converged after  3  iterations
+
+=== Solve 40 Details ===
+Iterations needed: 3
+
+Accuracy:
+Position error: 0.082740
+Attitude error: 0.126560
+
+Costs:
+State cost: 342.595296
+Input cost: 148.223393
+Total cost: 490.818689
+
+Constraint Violations:
+Input constraints: 1.222461
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.0
+Dual Input Residual: 0.03143989315241873
+Dual State Residual: 0.15323711944026794
+Converged after  3  iterations
+
+=== Solve 41 Details ===
+Iterations needed: 3
+
+Accuracy:
+Position error: 0.081282
+Attitude error: 0.128450
+
+Costs:
+State cost: 337.137010
+Input cost: 161.086177
+Total cost: 498.223187
+
+Constraint Violations:
+Input constraints: 1.325274
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.0
+Dual Input Residual: 0.03543090214405734
+Dual State Residual: 0.16099372079843274
+Converged after  3  iterations
+
+=== Solve 42 Details ===
+Iterations needed: 3
+
+Accuracy:
+Position error: 0.080293
+Attitude error: 0.129562
+
+Costs:
+State cost: 336.799585
+Input cost: 176.406172
+Total cost: 513.205757
+
+Constraint Violations:
+Input constraints: 1.442463
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.0
+Dual Input Residual: 0.0387643875255335
+Dual State Residual: 0.16263958384930488
+Converged after  3  iterations
+
+=== Solve 43 Details ===
+Iterations needed: 3
+
+Accuracy:
+Position error: 0.079775
+Attitude error: 0.129837
+
+Costs:
+State cost: 341.037411
+Input cost: 194.261823
+Total cost: 535.299234
+
+Constraint Violations:
+Input constraints: 1.572791
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.0
+Dual Input Residual: 0.041147281361647206
+Dual State Residual: 0.15607750770033857
+Converged after  3  iterations
+
+=== Solve 44 Details ===
+Iterations needed: 3
+
+Accuracy:
+Position error: 0.079709
+Attitude error: 0.129226
+
+Costs:
+State cost: 349.194557
+Input cost: 214.569581
+Total cost: 563.764138
+
+Constraint Violations:
+Input constraints: 1.713969
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.0
+Dual Input Residual: 0.04225168648976654
+Dual State Residual: 0.1393940666549548
+Converged after  3  iterations
+
+=== Solve 45 Details ===
+Iterations needed: 3
+
+Accuracy:
+Position error: 0.080058
+Attitude error: 0.127667
+
+Costs:
+State cost: 360.477366
+Input cost: 237.021895
+Total cost: 597.499261
+
+Constraint Violations:
+Input constraints: 1.862556
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.0
+Dual Input Residual: 0.04176472126787967
+Dual State Residual: 0.16115371974271114
+Converged after  3  iterations
+
+=== Solve 46 Details ===
+Iterations needed: 3
+
+Accuracy:
+Position error: 0.080763
+Attitude error: 0.125090
+
+Costs:
+State cost: 373.951771
+Input cost: 261.034883
+Total cost: 634.986654
+
+Constraint Violations:
+Input constraints: 2.013971
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.0
+Dual Input Residual: 0.03946258568161312
+Dual State Residual: 0.18913187625445538
+Converged after  3  iterations
+
+=== Solve 47 Details ===
+Iterations needed: 3
+
+Accuracy:
+Position error: 0.081749
+Attitude error: 0.121424
+
+Costs:
+State cost: 388.570996
+Input cost: 285.730194
+Total cost: 674.301191
+
+Constraint Violations:
+Input constraints: 2.162689
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.02093335099974858
+State Residual: 0.0
+Dual Input Residual: 0.0383494486497615
+Dual State Residual: 0.19812368788777085
+
+=== Solve 48 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.082928
+Attitude error: 0.116634
+
+Costs:
+State cost: 403.232428
+Input cost: 308.999400
+Total cost: 712.231828
+
+Constraint Violations:
+Input constraints: 2.297307
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.05337366900126317
+State Residual: 0.0
+Dual Input Residual: 0.03520851959140292
+Dual State Residual: 0.20337393632518908
+
+=== Solve 49 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.084206
+Attitude error: 0.110773
+
+Costs:
+State cost: 417.099572
+Input cost: 328.244257
+Total cost: 745.343829
+
+Constraint Violations:
+Input constraints: 2.405058
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0834709852731878
+State Residual: 0.0
+Dual Input Residual: 0.020323895642926637
+Dual State Residual: 0.18377844429945983
+
+=== Solve 50 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.085493
+Attitude error: 0.104063
+
+Costs:
+State cost: 429.839602
+Input cost: 342.451947
+Total cost: 772.291548
+
+Constraint Violations:
+Input constraints: 2.482453
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.11232851454327725
+State Residual: 0.0
+Dual Input Residual: 0.013009043398155062
+Dual State Residual: 0.18683414849316304
+
+=== Solve 51 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.086717
+Attitude error: 0.096905
+
+Costs:
+State cost: 441.780568
+Input cost: 353.610057
+Total cost: 795.390624
+
+Constraint Violations:
+Input constraints: 2.542054
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.22546973406678156
+State Residual: 0.0
+Dual Input Residual: 0.04488237248531357
+Dual State Residual: 1.2223684909177157
+
+=== Solve 52 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.080341
+Attitude error: 0.089850
+
+Costs:
+State cost: 401.111775
+Input cost: 389.032850
+Total cost: 790.144625
+
+Constraint Violations:
+Input constraints: 2.719328
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.2595504668418009
+State Residual: 0.0
+Dual Input Residual: 0.02418353140697993
+Dual State Residual: 1.2435293537953684
+
+=== Solve 53 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.074488
+Attitude error: 0.086657
+
+Costs:
+State cost: 377.383753
+Input cost: 409.470186
+Total cost: 786.853938
+
+Constraint Violations:
+Input constraints: 2.825443
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.282663544311524
+State Residual: 0.0
+Dual Input Residual: 0.03168484871313881
+Dual State Residual: 0.6442249263331306
+
+=== Solve 54 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.069358
+Attitude error: 0.090289
+
+Costs:
+State cost: 369.864256
+Input cost: 424.219008
+Total cost: 794.083264
+
+Constraint Violations:
+Input constraints: 2.898856
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.3443780118793823
+State Residual: 0.0
+Dual Input Residual: 0.0496673616032661
+Dual State Residual: 0.4746911795387747
+
+=== Solve 55 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.065248
+Attitude error: 0.098342
+
+Costs:
+State cost: 369.242877
+Input cost: 434.666444
+Total cost: 803.909322
+
+Constraint Violations:
+Input constraints: 2.948391
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.3936675260551296
+State Residual: 0.0
+Dual Input Residual: 0.07540315303196238
+Dual State Residual: 0.5510453395442619
+
+=== Solve 56 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.062415
+Attitude error: 0.106731
+
+Costs:
+State cost: 375.223027
+Input cost: 441.492040
+Total cost: 816.715068
+
+Constraint Violations:
+Input constraints: 2.980143
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.43174572657772575
+State Residual: 0.0
+Dual Input Residual: 0.09988593078484931
+Dual State Residual: 0.6012764767345911
+
+=== Solve 57 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.060957
+Attitude error: 0.112078
+
+Costs:
+State cost: 389.191677
+Input cost: 444.320981
+Total cost: 833.512657
+
+Constraint Violations:
+Input constraints: 2.993529
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.45987522639060724
+State Residual: 0.0
+Dual Input Residual: 0.12335269668899052
+Dual State Residual: 0.5995869582449425
+
+=== Solve 58 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.060765
+Attitude error: 0.112976
+
+Costs:
+State cost: 409.999070
+Input cost: 443.256442
+Total cost: 853.255512
+
+Constraint Violations:
+Input constraints: 2.989015
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.47996443854584897
+State Residual: 0.0
+Dual Input Residual: 0.1457430651049944
+Dual State Residual: 0.4669282948451941
+
+=== Solve 59 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.061575
+Attitude error: 0.109846
+
+Costs:
+State cost: 434.155534
+Input cost: 439.096509
+Total cost: 873.252043
+
+Constraint Violations:
+Input constraints: 2.969816
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.4940864679892914
+State Residual: 0.0
+Dual Input Residual: 0.16456898971659006
+Dual State Residual: 0.2776514506053095
+
+=== Solve 60 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.063070
+Attitude error: 0.104236
+
+Costs:
+State cost: 457.819391
+Input cost: 431.942312
+Total cost: 889.761702
+
+Constraint Violations:
+Input constraints: 2.935932
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.5033898399051033
+State Residual: 0.0
+Dual Input Residual: 0.17439651051183047
+Dual State Residual: 0.25286565438010855
+
+=== Solve 61 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.064953
+Attitude error: 0.097931
+
+Costs:
+State cost: 478.706584
+Input cost: 422.263458
+Total cost: 900.970041
+
+Constraint Violations:
+Input constraints: 2.889342
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.5086691173781199
+State Residual: 0.0
+Dual Input Residual: 0.1840108013741745
+Dual State Residual: 0.24224309125600263
+
+=== Solve 62 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.066990
+Attitude error: 0.092309
+
+Costs:
+State cost: 496.030777
+Input cost: 410.627130
+Total cost: 906.657907
+
+Constraint Violations:
+Input constraints: 2.832532
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.5104976229452909
+State Residual: 0.0
+Dual Input Residual: 0.19721683839084447
+Dual State Residual: 0.24566665954060524
+
+=== Solve 63 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.069011
+Attitude error: 0.088087
+
+Costs:
+State cost: 509.835341
+Input cost: 397.658952
+Total cost: 907.494293
+
+Constraint Violations:
+Input constraints: 2.768286
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.5091501168689168
+State Residual: 0.0
+Dual Input Residual: 0.20721030014101915
+Dual State Residual: 0.26294384588616204
+
+=== Solve 64 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.070905
+Attitude error: 0.085359
+
+Costs:
+State cost: 520.383798
+Input cost: 383.857281
+Total cost: 904.241079
+
+Constraint Violations:
+Input constraints: 2.698808
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.5047165393395638
+State Residual: 0.0
+Dual Input Residual: 0.214322619699585
+Dual State Residual: 0.29119726934278
+
+=== Solve 65 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.072603
+Attitude error: 0.083828
+
+Costs:
+State cost: 527.884032
+Input cost: 369.637166
+Total cost: 897.521198
+
+Constraint Violations:
+Input constraints: 2.625948
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.49722783601378034
+State Residual: 0.0
+Dual Input Residual: 0.21889416342338092
+Dual State Residual: 0.32626041037902953
+
+=== Solve 66 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.074064
+Attitude error: 0.083085
+
+Costs:
+State cost: 532.446201
+Input cost: 355.335206
+Total cost: 887.781406
+
+Constraint Violations:
+Input constraints: 2.551254
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.48677168867064075
+State Residual: 0.0
+Dual Input Residual: 0.22123178093883494
+Dual State Residual: 0.36389220213769335
+
+=== Solve 67 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.075268
+Attitude error: 0.082788
+
+Costs:
+State cost: 534.164808
+Input cost: 341.230432
+Total cost: 875.395240
+
+Constraint Violations:
+Input constraints: 2.476092
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.47355202194996565
+State Residual: 0.0
+Dual Input Residual: 0.22159417129219044
+Dual State Residual: 0.40058309031540984
+
+=== Solve 68 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.076209
+Attitude error: 0.082722
+
+Costs:
+State cost: 533.198779
+Input cost: 327.557288
+Total cost: 860.756067
+
+Constraint Violations:
+Input constraints: 2.401715
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.4578874982817747
+State Residual: 0.0
+Dual Input Residual: 0.2201976884821221
+Dual State Residual: 0.433941942278571
+
+=== Solve 69 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.076890
+Attitude error: 0.082785
+
+Costs:
+State cost: 529.795473
+Input cost: 314.507119
+Total cost: 844.302592
+
+Constraint Violations:
+Input constraints: 2.329250
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.44017067432169704
+State Residual: 0.0
+Dual Input Residual: 0.2184115240176425
+Dual State Residual: 0.46274463247913944
+
+=== Solve 70 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.077323
+Attitude error: 0.082941
+
+Costs:
+State cost: 524.265868
+Input cost: 302.224006
+Total cost: 826.489874
+
+Constraint Violations:
+Input constraints: 2.259648
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.4208143914514986
+State Residual: 0.0
+Dual Input Residual: 0.21851202603576717
+Dual State Residual: 0.4867554879061018
+
+=== Solve 71 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.077521
+Attitude error: 0.083202
+
+Costs:
+State cost: 516.942152
+Input cost: 290.801612
+Total cost: 807.743764
+
+Constraint Violations:
+Input constraints: 2.193641
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.4002048169227516
+State Residual: 0.0
+Dual Input Residual: 0.21665625459284266
+Dual State Residual: 0.5064332224788048
+
+=== Solve 72 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.077503
+Attitude error: 0.083595
+
+Costs:
+State cost: 508.143040
+Input cost: 280.442897
+Total cost: 788.585938
+
+Constraint Violations:
+Input constraints: 2.132648
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.37847062164667306
+State Residual: 0.0
+Dual Input Residual: 0.2164171569693433
+Dual State Residual: 0.5224001067018736
+
+=== Solve 73 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.077288
+Attitude error: 0.084156
+
+Costs:
+State cost: 498.079236
+Input cost: 271.229788
+Total cost: 769.309025
+
+Constraint Violations:
+Input constraints: 2.077444
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.35548653690235293
+State Residual: 0.0
+Dual Input Residual: 0.20829270802242833
+Dual State Residual: 0.5349393783586708
+
+=== Solve 74 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.076893
+Attitude error: 0.084911
+
+Costs:
+State cost: 486.874158
+Input cost: 262.689384
+Total cost: 749.563542
+
+Constraint Violations:
+Input constraints: 2.025429
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.33158142154924014
+State Residual: 0.0
+Dual Input Residual: 0.20167628754800662
+Dual State Residual: 0.5453821344413284
+
+=== Solve 75 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.076335
+Attitude error: 0.085879
+
+Costs:
+State cost: 474.807571
+Input cost: 254.855645
+Total cost: 729.663215
+
+Constraint Violations:
+Input constraints: 1.976969
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.30696408644216394
+State Residual: 0.0
+Dual Input Residual: 0.19340723941062554
+Dual State Residual: 0.5540206624224919
+
+=== Solve 76 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.075633
+Attitude error: 0.087064
+
+Costs:
+State cost: 462.119811
+Input cost: 247.709940
+Total cost: 709.829751
+
+Constraint Violations:
+Input constraints: 1.932112
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.28175971666312255
+State Residual: 0.0
+Dual Input Residual: 0.183572627291031
+Dual State Residual: 0.5610121865292609
+
+=== Solve 77 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.074805
+Attitude error: 0.088460
+
+Costs:
+State cost: 449.023345
+Input cost: 241.204810
+Total cost: 690.228155
+
+Constraint Violations:
+Input constraints: 1.890711
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.2560335643760588
+State Residual: 0.0
+Dual Input Residual: 0.17225534310759744
+Dual State Residual: 0.5664368405280008
+
+=== Solve 78 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.073869
+Attitude error: 0.090050
+
+Costs:
+State cost: 435.709053
+Input cost: 235.277964
+Total cost: 670.987017
+
+Constraint Violations:
+Input constraints: 1.852501
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.24580692618221986
+State Residual: 0.0
+Dual Input Residual: 0.15953327002509837
+Dual State Residual: 0.5702946213948182
+
+=== Solve 79 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.072843
+Attitude error: 0.091808
+
+Costs:
+State cost: 422.349558
+Input cost: 229.860122
+Total cost: 652.209679
+
+Constraint Violations:
+Input constraints: 1.817149
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.252218695596294
+State Residual: 0.0
+Dual Input Residual: 0.1454783567567625
+Dual State Residual: 0.572516689319684
+
+=== Solve 80 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.071744
+Attitude error: 0.093701
+
+Costs:
+State cost: 409.101259
+Input cost: 224.880042
+Total cost: 633.981300
+
+Constraint Violations:
+Input constraints: 1.784285
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.25852323337545463
+State Residual: 0.009724199316477389
+Dual Input Residual: 0.130167124632867
+Dual State Residual: 0.5940737643526967
+
+=== Solve 81 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.070587
+Attitude error: 0.095689
+
+Costs:
+State cost: 396.072481
+Input cost: 222.232274
+Total cost: 618.304755
+
+Constraint Violations:
+Input constraints: 1.766689
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.2102768001762768
+State Residual: 0.010842245540751527
+Dual Input Residual: 0.15988023931818626
+Dual State Residual: 0.6118693540067447
+
+=== Solve 82 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.069375
+Attitude error: 0.097818
+
+Costs:
+State cost: 382.416700
+Input cost: 220.953315
+Total cost: 603.370015
+
+Constraint Violations:
+Input constraints: 1.758135
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.21663033037430285
+State Residual: 0.013181022987561963
+Dual Input Residual: 0.13851155186080685
+Dual State Residual: 0.5889705313739321
+
+=== Solve 83 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.068084
+Attitude error: 0.100367
+
+Costs:
+State cost: 367.652946
+Input cost: 216.857955
+Total cost: 584.510902
+
+Constraint Violations:
+Input constraints: 1.730602
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.2246188618838073
+State Residual: 0.016876861060959314
+Dual Input Residual: 0.11479655463538535
+Dual State Residual: 0.5397736109930271
+
+=== Solve 84 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.066695
+Attitude error: 0.103350
+
+Costs:
+State cost: 352.185758
+Input cost: 211.500957
+Total cost: 563.686715
+
+Constraint Violations:
+Input constraints: 1.694177
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.21157219437788544
+State Residual: 0.013116683539962537
+Dual Input Residual: 0.1396164318629562
+Dual State Residual: 0.46850240450760927
+
+=== Solve 85 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.065203
+Attitude error: 0.106430
+
+Costs:
+State cost: 336.453222
+Input cost: 206.165233
+Total cost: 542.618456
+
+Constraint Violations:
+Input constraints: 1.657431
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.23856355126178252
+State Residual: 0.014678355981252
+Dual Input Residual: 0.11502836181552367
+Dual State Residual: 0.36029890037187107
+
+=== Solve 86 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.063605
+Attitude error: 0.109424
+
+Costs:
+State cost: 320.728138
+Input cost: 201.107661
+Total cost: 521.835799
+
+Constraint Violations:
+Input constraints: 1.622159
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.1857977252277374
+State Residual: 0.018707462204353265
+Dual Input Residual: 0.0884145547379279
+Dual State Residual: 0.25279951542448975
+
+=== Solve 87 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.061900
+Attitude error: 0.112181
+
+Costs:
+State cost: 305.412326
+Input cost: 196.851949
+Total cost: 502.264274
+
+Constraint Violations:
+Input constraints: 1.592071
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.2460771074740163
+State Residual: 0.006740673012161302
+Dual Input Residual: 0.0601072159850519
+Dual State Residual: 0.17513534132154063
+
+=== Solve 88 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.060090
+Attitude error: 0.114536
+
+Costs:
+State cost: 291.074569
+Input cost: 180.052302
+Total cost: 471.126872
+
+Constraint Violations:
+Input constraints: 1.469037
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.2215105881383737
+State Residual: 0.01402418206085776
+Dual Input Residual: 0.059920287011621554
+Dual State Residual: 0.10844657751985753
+Converged after  34  iterations
+
+=== Solve 89 Details ===
+Iterations needed: 34
+
+Accuracy:
+Position error: 0.058243
+Attitude error: 0.116513
+
+Costs:
+State cost: 280.178331
+Input cost: 159.863544
+Total cost: 440.041875
+
+Constraint Violations:
+Input constraints: 1.311282
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.017408488670465072
+Dual Input Residual: 0.05888952257338004
+Dual State Residual: 0.07757618238498698
+Converged after  3  iterations
+
+=== Solve 90 Details ===
+Iterations needed: 3
+
+Accuracy:
+Position error: 0.056514
+Attitude error: 0.118074
+
+Costs:
+State cost: 273.650529
+Input cost: 138.072034
+Total cost: 411.722563
+
+Constraint Violations:
+Input constraints: 1.135621
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.01710002286097434
+Dual Input Residual: 0.04135909758384404
+Dual State Residual: 0.1115168661537232
+Converged after  1  iterations
+
+=== Solve 91 Details ===
+Iterations needed: 1
+
+Accuracy:
+Position error: 0.055084
+Attitude error: 0.119484
+
+Costs:
+State cost: 272.582873
+Input cost: 125.045105
+Total cost: 397.627978
+
+Constraint Violations:
+Input constraints: 1.023774
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.000601190061398027
+Dual Input Residual: 0.024857420919022703
+Dual State Residual: 0.12861173254697028
+Converged after  2  iterations
+
+=== Solve 92 Details ===
+Iterations needed: 2
+
+Accuracy:
+Position error: 0.054090
+Attitude error: 0.121616
+
+Costs:
+State cost: 276.830738
+Input cost: 117.118284
+Total cost: 393.949021
+
+Constraint Violations:
+Input constraints: 0.952795
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.02861294812075066
+Dual Input Residual: 0.01850542260696065
+Dual State Residual: 0.13969103038069922
+Converged after  8  iterations
+
+=== Solve 93 Details ===
+Iterations needed: 8
+
+Accuracy:
+Position error: 0.053587
+Attitude error: 0.125072
+
+Costs:
+State cost: 285.873905
+Input cost: 112.265660
+Total cost: 398.139565
+
+Constraint Violations:
+Input constraints: 0.908177
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.05231761149436531
+Dual Input Residual: 0.013784295833090474
+Dual State Residual: 0.11216288459920443
+Converged after  11  iterations
+
+=== Solve 94 Details ===
+Iterations needed: 11
+
+Accuracy:
+Position error: 0.053574
+Attitude error: 0.129813
+
+Costs:
+State cost: 298.818055
+Input cost: 109.313398
+Total cost: 408.131453
+
+Constraint Violations:
+Input constraints: 0.880537
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.06394096093142698
+Dual Input Residual: 0.009790782893585079
+Dual State Residual: 0.09252667157364591
+Converged after  13  iterations
+
+=== Solve 95 Details ===
+Iterations needed: 13
+
+Accuracy:
+Position error: 0.054008
+Attitude error: 0.135439
+
+Costs:
+State cost: 314.715940
+Input cost: 107.515403
+Total cost: 422.231343
+
+Constraint Violations:
+Input constraints: 0.863470
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.06532863274288525
+Dual Input Residual: 0.00700547394937491
+Dual State Residual: 0.09098488165898133
+Converged after  13  iterations
+
+=== Solve 96 Details ===
+Iterations needed: 13
+
+Accuracy:
+Position error: 0.054824
+Attitude error: 0.141500
+
+Costs:
+State cost: 332.731556
+Input cost: 106.367829
+Total cost: 439.099385
+
+Constraint Violations:
+Input constraints: 0.852452
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.06560039620653324
+Dual Input Residual: 0.005166301024619402
+Dual State Residual: 0.0874856389880081
+Converged after  16  iterations
+
+=== Solve 97 Details ===
+Iterations needed: 16
+
+Accuracy:
+Position error: 0.055948
+Attitude error: 0.147607
+
+Costs:
+State cost: 352.113432
+Input cost: 105.526848
+Total cost: 457.640281
+
+Constraint Violations:
+Input constraints: 0.844297
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.06320905838871527
+Dual Input Residual: 0.004423801535138917
+Dual State Residual: 0.0838003807890324
+Converged after  18  iterations
+
+=== Solve 98 Details ===
+Iterations needed: 18
+
+Accuracy:
+Position error: 0.057302
+Attitude error: 0.153413
+
+Costs:
+State cost: 372.154127
+Input cost: 104.757831
+Total cost: 476.911957
+
+Constraint Violations:
+Input constraints: 0.836780
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.056380019988932606
+Dual Input Residual: 0.004593851215790229
+Dual State Residual: 0.07779238170155423
+Converged after  18  iterations
+
+=== Solve 99 Details ===
+Iterations needed: 18
+
+Accuracy:
+Position error: 0.058815
+Attitude error: 0.158579
+
+Costs:
+State cost: 392.286298
+Input cost: 103.891214
+Total cost: 496.177513
+
+Constraint Violations:
+Input constraints: 0.828310
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.05087279845223769
+Dual Input Residual: 0.004813051669738305
+Dual State Residual: 0.07038773697712708
+Converged after  18  iterations
+
+=== Solve 100 Details ===
+Iterations needed: 18
+
+Accuracy:
+Position error: 0.060425
+Attitude error: 0.162959
+
+Costs:
+State cost: 412.299983
+Input cost: 102.816582
+Total cost: 515.116565
+
+Constraint Violations:
+Input constraints: 0.817771
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.04773535604151391
+Dual Input Residual: 0.005176986055937888
+Dual State Residual: 0.06378361708130387
+Converged after  18  iterations
+
+=== Solve 101 Details ===
+Iterations needed: 18
+
+Accuracy:
+Position error: 0.062082
+Attitude error: 0.166600
+
+Costs:
+State cost: 431.903285
+Input cost: 101.480827
+Total cost: 533.384112
+
+Constraint Violations:
+Input constraints: 0.804601
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.04791218697934685
+Dual Input Residual: 0.005928715599099799
+Dual State Residual: 0.05915777070327011
+Converged after  17  iterations
+
+=== Solve 102 Details ===
+Iterations needed: 17
+
+Accuracy:
+Position error: 0.063746
+Attitude error: 0.169549
+
+Costs:
+State cost: 450.866476
+Input cost: 99.871946
+Total cost: 550.738423
+
+Constraint Violations:
+Input constraints: 0.788627
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.041333155838087166
+Dual Input Residual: 0.0069396894929808495
+Dual State Residual: 0.061347827277395434
+Converged after  16  iterations
+
+=== Solve 103 Details ===
+Iterations needed: 16
+
+Accuracy:
+Position error: 0.065387
+Attitude error: 0.171842
+
+Costs:
+State cost: 469.059280
+Input cost: 97.997340
+Total cost: 567.056619
+
+Constraint Violations:
+Input constraints: 0.769867
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.03847585126174735
+Dual Input Residual: 0.00737841323739602
+Dual State Residual: 0.04938644773760732
+Converged after  16  iterations
+
+=== Solve 104 Details ===
+Iterations needed: 16
+
+Accuracy:
+Position error: 0.066983
+Attitude error: 0.173558
+
+Costs:
+State cost: 486.487990
+Input cost: 95.876653
+Total cost: 582.364643
+
+Constraint Violations:
+Input constraints: 0.748426
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.03555191350288034
+Dual Input Residual: 0.007671550405368099
+Dual State Residual: 0.035577537776136585
+Converged after  15  iterations
+
+=== Solve 105 Details ===
+Iterations needed: 15
+
+Accuracy:
+Position error: 0.068521
+Attitude error: 0.174826
+
+Costs:
+State cost: 503.187350
+Input cost: 93.534546
+Total cost: 596.721896
+
+Constraint Violations:
+Input constraints: 0.724468
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.03384044546801235
+Dual Input Residual: 0.007787603797239251
+Dual State Residual: 0.024007544255972582
+Converged after  14  iterations
+
+=== Solve 106 Details ===
+Iterations needed: 14
+
+Accuracy:
+Position error: 0.069995
+Attitude error: 0.175768
+
+Costs:
+State cost: 519.236093
+Input cost: 91.010875
+Total cost: 610.246968
+
+Constraint Violations:
+Input constraints: 0.698318
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.03290376919685167
+Dual Input Residual: 0.007469211538592785
+Dual State Residual: 0.016090346523810917
+Converged after  14  iterations
+
+=== Solve 107 Details ===
+Iterations needed: 14
+
+Accuracy:
+Position error: 0.071402
+Attitude error: 0.176490
+
+Costs:
+State cost: 534.692384
+Input cost: 88.511883
+Total cost: 623.204267
+
+Constraint Violations:
+Input constraints: 0.672067
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.03167072935106985
+Dual Input Residual: 0.006646537868119168
+Dual State Residual: 0.012919044593074636
+Converged after  15  iterations
+
+=== Solve 108 Details ===
+Iterations needed: 15
+
+Accuracy:
+Position error: 0.072742
+Attitude error: 0.177063
+
+Costs:
+State cost: 549.537612
+Input cost: 86.303618
+Total cost: 635.841230
+
+Constraint Violations:
+Input constraints: 0.648564
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.03128562246799005
+Dual Input Residual: 0.005366080553091623
+Dual State Residual: 0.012821565649067862
+Converged after  16  iterations
+
+=== Solve 109 Details ===
+Iterations needed: 16
+
+Accuracy:
+Position error: 0.074015
+Attitude error: 0.177519
+
+Costs:
+State cost: 563.668386
+Input cost: 84.575368
+Total cost: 648.243754
+
+Constraint Violations:
+Input constraints: 0.629964
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.029305502642872572
+Dual Input Residual: 0.0033790581764663874
+Dual State Residual: 0.010653630604081421
+Converged after  15  iterations
+
+=== Solve 110 Details ===
+Iterations needed: 15
+
+Accuracy:
+Position error: 0.075221
+Attitude error: 0.177883
+
+Costs:
+State cost: 576.900626
+Input cost: 83.466165
+Total cost: 660.366792
+
+Constraint Violations:
+Input constraints: 0.617932
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.027200160675732832
+Dual Input Residual: 0.00167392370274644
+Dual State Residual: 0.008629660372135195
+Converged after  14  iterations
+
+=== Solve 111 Details ===
+Iterations needed: 14
+
+Accuracy:
+Position error: 0.076355
+Attitude error: 0.178168
+
+Costs:
+State cost: 588.933366
+Input cost: 83.085287
+Total cost: 672.018653
+
+Constraint Violations:
+Input constraints: 0.613791
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.024019514263030395
+Dual Input Residual: 0.0021695526067072313
+Dual State Residual: 0.011306885944016958
+Converged after  12  iterations
+
+=== Solve 112 Details ===
+Iterations needed: 12
+
+Accuracy:
+Position error: 0.077408
+Attitude error: 0.178343
+
+Costs:
+State cost: 599.345879
+Input cost: 83.524618
+Total cost: 682.870497
+
+Constraint Violations:
+Input constraints: 0.618594
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.022089599887975986
+Dual Input Residual: 0.004495422439163732
+Dual State Residual: 0.018179845762540302
+Converged after  9  iterations
+
+=== Solve 113 Details ===
+Iterations needed: 9
+
+Accuracy:
+Position error: 0.078365
+Attitude error: 0.178336
+
+Costs:
+State cost: 607.632967
+Input cost: 84.864392
+Total cost: 692.497359
+
+Constraint Violations:
+Input constraints: 0.633135
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.022041088948628218
+Dual Input Residual: 0.007426961827347506
+Dual State Residual: 0.030004642776290977
+Converged after  7  iterations
+
+=== Solve 114 Details ===
+Iterations needed: 7
+
+Accuracy:
+Position error: 0.079209
+Attitude error: 0.178045
+
+Costs:
+State cost: 613.228130
+Input cost: 87.176685
+Total cost: 700.404815
+
+Constraint Violations:
+Input constraints: 0.657952
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.019532379381995923
+Dual Input Residual: 0.010253648284667155
+Dual State Residual: 0.04498471066520608
+Converged after  4  iterations
+
+=== Solve 115 Details ===
+Iterations needed: 4
+
+Accuracy:
+Position error: 0.079915
+Attitude error: 0.177335
+
+Costs:
+State cost: 615.539325
+Input cost: 90.525415
+Total cost: 706.064740
+
+Constraint Violations:
+Input constraints: 0.693309
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.032671240499854814
+Dual Input Residual: 0.01301931144699997
+Dual State Residual: 0.06025407111224235
+Converged after  8  iterations
+
+=== Solve 116 Details ===
+Iterations needed: 8
+
+Accuracy:
+Position error: 0.080456
+Attitude error: 0.176055
+
+Costs:
+State cost: 614.012307
+Input cost: 94.963028
+Total cost: 708.975335
+
+Constraint Violations:
+Input constraints: 0.739167
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.040006550430421894
+Dual Input Residual: 0.01580283514369972
+Dual State Residual: 0.07401144952182684
+Converged after  17  iterations
+
+=== Solve 117 Details ===
+Iterations needed: 17
+
+Accuracy:
+Position error: 0.080800
+Attitude error: 0.174060
+
+Costs:
+State cost: 608.187085
+Input cost: 100.525082
+Total cost: 708.712167
+
+Constraint Violations:
+Input constraints: 0.795168
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.053799178454654095
+Dual Input Residual: 0.01928756861425386
+Dual State Residual: 0.09275137856107576
+Converged after  22  iterations
+
+=== Solve 118 Details ===
+Iterations needed: 22
+
+Accuracy:
+Position error: 0.080918
+Attitude error: 0.171281
+
+Costs:
+State cost: 597.749802
+Input cost: 107.231817
+Total cost: 704.981619
+
+Constraint Violations:
+Input constraints: 0.860660
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.0685014256499914
+Dual Input Residual: 0.02200635166776206
+Dual State Residual: 0.11366383159530768
+Converged after  20  iterations
+
+=== Solve 119 Details ===
+Iterations needed: 20
+
+Accuracy:
+Position error: 0.080779
+Attitude error: 0.167669
+
+Costs:
+State cost: 582.510202
+Input cost: 115.088410
+Total cost: 697.598612
+
+Constraint Violations:
+Input constraints: 0.934815
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.08378535928707764
+Dual Input Residual: 0.023699800649685136
+Dual State Residual: 0.12811047338460158
+Converged after  23  iterations
+
+=== Solve 120 Details ===
+Iterations needed: 23
+
+Accuracy:
+Position error: 0.080353
+Attitude error: 0.163102
+
+Costs:
+State cost: 562.495104
+Input cost: 124.068313
+Total cost: 686.563417
+
+Constraint Violations:
+Input constraints: 1.016541
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.09861820015674128
+Dual Input Residual: 0.024621266093347867
+Dual State Residual: 0.13859308879287424
+Converged after  26  iterations
+
+=== Solve 121 Details ===
+Iterations needed: 26
+
+Accuracy:
+Position error: 0.079619
+Attitude error: 0.157450
+
+Costs:
+State cost: 537.995001
+Input cost: 134.092734
+Total cost: 672.087735
+
+Constraint Violations:
+Input constraints: 1.104370
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.11225866158372888
+Dual Input Residual: 0.02637674446942012
+Dual State Residual: 0.1455100924759236
+Converged after  23  iterations
+
+=== Solve 122 Details ===
+Iterations needed: 23
+
+Accuracy:
+Position error: 0.078560
+Attitude error: 0.150688
+
+Costs:
+State cost: 509.582131
+Input cost: 145.045548
+Total cost: 654.627679
+
+Constraint Violations:
+Input constraints: 1.196644
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.12526838609030388
+Dual Input Residual: 0.02723245956069196
+Dual State Residual: 0.14040762042467037
+Converged after  24  iterations
+
+=== Solve 123 Details ===
+Iterations needed: 24
+
+Accuracy:
+Position error: 0.077173
+Attitude error: 0.142826
+
+Costs:
+State cost: 478.079191
+Input cost: 156.767215
+Total cost: 634.846406
+
+Constraint Violations:
+Input constraints: 1.291642
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.13487906739003064
+Dual Input Residual: 0.02759776055783055
+Dual State Residual: 0.1286790120597905
+Converged after  21  iterations
+
+=== Solve 124 Details ===
+Iterations needed: 21
+
+Accuracy:
+Position error: 0.075466
+Attitude error: 0.133983
+
+Costs:
+State cost: 444.474507
+Input cost: 169.067384
+Total cost: 613.541891
+
+Constraint Violations:
+Input constraints: 1.387565
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.14148057551651494
+Dual Input Residual: 0.026156491579714586
+Dual State Residual: 0.1327529904601945
+Converged after  18  iterations
+
+=== Solve 125 Details ===
+Iterations needed: 18
+
+Accuracy:
+Position error: 0.073463
+Attitude error: 0.124386
+
+Costs:
+State cost: 409.925839
+Input cost: 181.742944
+Total cost: 591.668784
+
+Constraint Violations:
+Input constraints: 1.482833
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.1361409619869154
+Dual Input Residual: 0.02462038549959976
+Dual State Residual: 0.1378907041277686
+Converged after  8  iterations
+
+=== Solve 126 Details ===
+Iterations needed: 8
+
+Accuracy:
+Position error: 0.071203
+Attitude error: 0.114294
+
+Costs:
+State cost: 375.566166
+Input cost: 194.595127
+Total cost: 570.161292
+
+Constraint Violations:
+Input constraints: 1.576075
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.0
+Dual Input Residual: 0.025379348216610115
+Dual State Residual: 0.1374438468891066
+Converged after  2  iterations
+
+=== Solve 127 Details ===
+Iterations needed: 2
+
+Accuracy:
+Position error: 0.068742
+Attitude error: 0.103942
+
+Costs:
+State cost: 342.543198
+Input cost: 207.442367
+Total cost: 549.985565
+
+Constraint Violations:
+Input constraints: 1.666255
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.0
+Dual Input Residual: 0.026216106589620675
+Dual State Residual: 0.1399553603075978
+Converged after  2  iterations
+
+=== Solve 128 Details ===
+Iterations needed: 2
+
+Accuracy:
+Position error: 0.066147
+Attitude error: 0.093562
+
+Costs:
+State cost: 311.814299
+Input cost: 220.113555
+Total cost: 531.927855
+
+Constraint Violations:
+Input constraints: 1.752488
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.0
+Dual Input Residual: 0.02409528128115751
+Dual State Residual: 0.1421794054914356
+Converged after  2  iterations
+
+=== Solve 129 Details ===
+Iterations needed: 2
+
+Accuracy:
+Position error: 0.063499
+Attitude error: 0.083661
+
+Costs:
+State cost: 284.171886
+Input cost: 232.509356
+Total cost: 516.681241
+
+Constraint Violations:
+Input constraints: 1.834435
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.0
+Dual Input Residual: 0.021655265455770928
+Dual State Residual: 0.1523856719289497
+Converged after  2  iterations
+
+=== Solve 130 Details ===
+Iterations needed: 2
+
+Accuracy:
+Position error: 0.060887
+Attitude error: 0.074874
+
+Costs:
+State cost: 260.451740
+Input cost: 244.711010
+Total cost: 505.162749
+
+Constraint Violations:
+Input constraints: 1.912983
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.0
+Dual Input Residual: 0.019585450082612227
+Dual State Residual: 0.17301836841004536
+Converged after  2  iterations
+
+=== Solve 131 Details ===
+Iterations needed: 2
+
+Accuracy:
+Position error: 0.058397
+Attitude error: 0.067665
+
+Costs:
+State cost: 241.219490
+Input cost: 256.954551
+Total cost: 498.174042
+
+Constraint Violations:
+Input constraints: 1.989879
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.0
+Dual Input Residual: 0.019010607857264966
+Dual State Residual: 0.17563259729197273
+Converged after  2  iterations
+
+=== Solve 132 Details ===
+Iterations needed: 2
+
+Accuracy:
+Position error: 0.056109
+Attitude error: 0.062279
+
+Costs:
+State cost: 226.702224
+Input cost: 269.534041
+Total cost: 496.236265
+
+Constraint Violations:
+Input constraints: 2.067033
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.0
+Dual Input Residual: 0.01991406415697361
+Dual State Residual: 0.18068729077990567
+Converged after  2  iterations
+
+=== Solve 133 Details ===
+Iterations needed: 2
+
+Accuracy:
+Position error: 0.054089
+Attitude error: 0.058765
+
+Costs:
+State cost: 216.798373
+Input cost: 282.714238
+Total cost: 499.512610
+
+Constraint Violations:
+Input constraints: 2.145992
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.0
+Dual Input Residual: 0.021086625433347606
+Dual State Residual: 0.16860749869825253
+Converged after  2  iterations
+
+=== Solve 134 Details ===
+Iterations needed: 2
+
+Accuracy:
+Position error: 0.052384
+Attitude error: 0.057005
+
+Costs:
+State cost: 211.125912
+Input cost: 296.665143
+Total cost: 507.791055
+
+Constraint Violations:
+Input constraints: 2.227603
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.0
+Dual Input Residual: 0.022103281912241812
+Dual State Residual: 0.142505986654962
+Converged after  2  iterations
+
+=== Solve 135 Details ===
+Iterations needed: 2
+
+Accuracy:
+Position error: 0.051022
+Attitude error: 0.056768
+
+Costs:
+State cost: 209.078108
+Input cost: 311.416349
+Total cost: 520.494457
+
+Constraint Violations:
+Input constraints: 2.311832
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.017761878084718796
+State Residual: 0.0
+Dual Input Residual: 0.011507036163348583
+Dual State Residual: 0.10626830311439298
+
+=== Solve 136 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.050007
+Attitude error: 0.057743
+
+Costs:
+State cost: 209.890809
+Input cost: 324.204446
+Total cost: 534.095255
+
+Constraint Violations:
+Input constraints: 2.383247
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.04042420038715561
+State Residual: 0.0
+Dual Input Residual: 0.01039348641497595
+Dual State Residual: 0.06177288272362477
+
+=== Solve 137 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.049331
+Attitude error: 0.059539
+
+Costs:
+State cost: 213.378710
+Input cost: 335.499096
+Total cost: 548.877805
+
+Constraint Violations:
+Input constraints: 2.445143
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.06700721292104367
+State Residual: 0.0
+Dual Input Residual: 0.007423137362651128
+Dual State Residual: 0.026428576140500926
+
+=== Solve 138 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.048979
+Attitude error: 0.061762
+
+Costs:
+State cost: 219.569205
+Input cost: 346.425407
+Total cost: 565.994612
+
+Constraint Violations:
+Input constraints: 2.504026
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.099417839263503
+State Residual: 0.0
+Dual Input Residual: 0.003983678057277507
+Dual State Residual: 0.035218635921663716
+
+=== Solve 139 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.048940
+Attitude error: 0.064072
+
+Costs:
+State cost: 228.473549
+Input cost: 357.384156
+Total cost: 585.857705
+
+Constraint Violations:
+Input constraints: 2.562150
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.13566228221579524
+State Residual: 0.0
+Dual Input Residual: 0.006918811228166344
+Dual State Residual: 0.05677391215401756
+
+=== Solve 140 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.049201
+Attitude error: 0.066166
+
+Costs:
+State cost: 240.129194
+Input cost: 368.390356
+Total cost: 608.519550
+
+Constraint Violations:
+Input constraints: 2.619633
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.1752684055172707
+State Residual: 0.0
+Dual Input Residual: 0.015783221924488416
+Dual State Residual: 0.07031373130661529
+
+=== Solve 141 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.049750
+Attitude error: 0.067789
+
+Costs:
+State cost: 254.599803
+Input cost: 379.776317
+Total cost: 634.376120
+
+Constraint Violations:
+Input constraints: 2.678200
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.21726013267377092
+State Residual: 0.0
+Dual Input Residual: 0.02917787417262191
+Dual State Residual: 0.07865709849632797
+
+=== Solve 142 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.050576
+Attitude error: 0.068696
+
+Costs:
+State cost: 271.742701
+Input cost: 391.506214
+Total cost: 663.248915
+
+Constraint Violations:
+Input constraints: 2.737627
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.2589802323685814
+State Residual: 0.0
+Dual Input Residual: 0.034880960680787
+Dual State Residual: 0.09421618576236829
+
+=== Solve 143 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.051664
+Attitude error: 0.068688
+
+Costs:
+State cost: 291.183915
+Input cost: 403.112439
+Total cost: 694.296353
+
+Constraint Violations:
+Input constraints: 2.795572
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.2996702179576221
+State Residual: 0.0
+Dual Input Residual: 0.050873129761472624
+Dual State Residual: 0.08492584938165931
+
+=== Solve 144 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.052993
+Attitude error: 0.067720
+
+Costs:
+State cost: 312.286938
+Input cost: 413.417795
+Total cost: 725.704733
+
+Constraint Violations:
+Input constraints: 2.846337
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.3392424012704072
+State Residual: 0.0
+Dual Input Residual: 0.07011830471117908
+Dual State Residual: 0.07639160870979551
+
+=== Solve 145 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.054532
+Attitude error: 0.065955
+
+Costs:
+State cost: 334.331377
+Input cost: 421.275808
+Total cost: 755.607185
+
+Constraint Violations:
+Input constraints: 2.884623
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.374802688253225
+State Residual: 0.0
+Dual Input Residual: 0.09194035111376889
+Dual State Residual: 0.12580113029177276
+
+=== Solve 146 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.056242
+Attitude error: 0.063718
+
+Costs:
+State cost: 356.674967
+Input cost: 425.922760
+Total cost: 782.597727
+
+Constraint Violations:
+Input constraints: 2.907092
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.4058988046828969
+State Residual: 0.0
+Dual Input Residual: 0.11531358050803614
+Dual State Residual: 0.1681480590289567
+
+=== Solve 147 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.058083
+Attitude error: 0.061360
+
+Costs:
+State cost: 378.857131
+Input cost: 427.254763
+Total cost: 806.111895
+
+Constraint Violations:
+Input constraints: 2.913506
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.4324352353007224
+State Residual: 0.0
+Dual Input Residual: 0.1342384412707918
+Dual State Residual: 0.20203245475607104
+
+=== Solve 148 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.060010
+Attitude error: 0.059187
+
+Costs:
+State cost: 400.536636
+Input cost: 425.852105
+Total cost: 826.388741
+
+Constraint Violations:
+Input constraints: 2.906744
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.45438674455109557
+State Residual: 0.0
+Dual Input Residual: 0.1540888651425741
+Dual State Residual: 0.22634379000848195
+
+=== Solve 149 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.061978
+Attitude error: 0.057427
+
+Costs:
+State cost: 421.295692
+Input cost: 422.248215
+Total cost: 843.543907
+
+Constraint Violations:
+Input constraints: 2.889327
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.47164764027283396
+State Residual: 0.0
+Dual Input Residual: 0.16822476343747506
+Dual State Residual: 0.2421211536904551
+
+=== Solve 150 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.063944
+Attitude error: 0.056218
+
+Costs:
+State cost: 440.630223
+Input cost: 416.760694
+Total cost: 857.390917
+
+Constraint Violations:
+Input constraints: 2.862669
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.48421957004183974
+State Residual: 0.0
+Dual Input Residual: 0.17442058105037578
+Dual State Residual: 0.2521681112149623
+
+=== Solve 151 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.065860
+Attitude error: 0.055600
+
+Costs:
+State cost: 458.026458
+Input cost: 409.500636
+Total cost: 867.527094
+
+Constraint Violations:
+Input constraints: 2.827129
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.49233067503362166
+State Residual: 0.0
+Dual Input Residual: 0.18733248567005933
+Dual State Residual: 0.25953902161874054
+
+=== Solve 152 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.067684
+Attitude error: 0.055526
+
+Costs:
+State cost: 473.082260
+Input cost: 400.725772
+Total cost: 873.808031
+
+Constraint Violations:
+Input constraints: 2.783751
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.4963062638158366
+State Residual: 0.0
+Dual Input Residual: 0.19806918437288068
+Dual State Residual: 0.2666595571970158
+
+=== Solve 153 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.069378
+Attitude error: 0.055898
+
+Costs:
+State cost: 485.498633
+Input cost: 390.726879
+Total cost: 876.225512
+
+Constraint Violations:
+Input constraints: 2.733738
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.4965278231220461
+State Residual: 0.0
+Dual Input Residual: 0.18408547811583786
+Dual State Residual: 0.27531352600776726
+
+=== Solve 154 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.070911
+Attitude error: 0.056594
+
+Costs:
+State cost: 495.086568
+Input cost: 379.827630
+Total cost: 874.914198
+
+Constraint Violations:
+Input constraints: 2.678485
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.4933681945754251
+State Residual: 0.0
+Dual Input Residual: 0.17426360352872294
+Dual State Residual: 0.28652214702225187
+
+=== Solve 155 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.072256
+Attitude error: 0.057498
+
+Costs:
+State cost: 501.753384
+Input cost: 368.284167
+Total cost: 870.037551
+
+Constraint Violations:
+Input constraints: 2.619094
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.4871910059505436
+State Residual: 0.0
+Dual Input Residual: 0.1848009531862679
+Dual State Residual: 0.3006417211525236
+
+=== Solve 156 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.073396
+Attitude error: 0.058516
+
+Costs:
+State cost: 505.519050
+Input cost: 356.360324
+Total cost: 861.879374
+
+Constraint Violations:
+Input constraints: 2.556759
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.47833573460089335
+State Residual: 0.0
+Dual Input Residual: 0.19353223959913635
+Dual State Residual: 0.31744655207695055
+
+=== Solve 157 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.074320
+Attitude error: 0.059584
+
+Costs:
+State cost: 506.496743
+Input cost: 344.309350
+Total cost: 850.806093
+
+Constraint Violations:
+Input constraints: 2.492692
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.46711577250170605
+State Residual: 0.0
+Dual Input Residual: 0.2003329529320952
+Dual State Residual: 0.33631498939441623
+
+=== Solve 158 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.075022
+Attitude error: 0.060677
+
+Costs:
+State cost: 504.872494
+Input cost: 332.380777
+Total cost: 837.253270
+
+Constraint Violations:
+Input constraints: 2.428161
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.4538118392180747
+State Residual: 0.0
+Dual Input Residual: 0.2244719020136327
+Dual State Residual: 0.35640850152990255
+
+=== Solve 159 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.075503
+Attitude error: 0.061797
+
+Costs:
+State cost: 500.876120
+Input cost: 320.733199
+Total cost: 821.609318
+
+Constraint Violations:
+Input constraints: 2.364024
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.43870290802559814
+State Residual: 0.0
+Dual Input Residual: 0.22355928607298264
+Dual State Residual: 0.37694072068748
+
+=== Solve 160 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.075767
+Attitude error: 0.062968
+
+Costs:
+State cost: 494.789524
+Input cost: 309.493040
+Total cost: 804.282564
+
+Constraint Violations:
+Input constraints: 2.301017
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.42206605767083943
+State Residual: 0.0
+Dual Input Residual: 0.2213989413437427
+Dual State Residual: 0.39723635367508775
+
+=== Solve 161 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.075824
+Attitude error: 0.064229
+
+Costs:
+State cost: 486.934565
+Input cost: 298.782922
+Total cost: 785.717487
+
+Constraint Violations:
+Input constraints: 2.239907
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.40416107880764734
+State Residual: 0.0
+Dual Input Residual: 0.2180999448074647
+Dual State Residual: 0.41675846101990777
+
+=== Solve 162 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.075687
+Attitude error: 0.065623
+
+Costs:
+State cost: 477.647342
+Input cost: 288.694065
+Total cost: 766.341407
+
+Constraint Violations:
+Input constraints: 2.181332
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.3852270889628961
+State Residual: 0.0
+Dual Input Residual: 0.21377997527450346
+Dual State Residual: 0.4351611181949333
+
+=== Solve 163 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.075371
+Attitude error: 0.067188
+
+Costs:
+State cost: 467.263600
+Input cost: 279.525351
+Total cost: 746.788951
+
+Constraint Violations:
+Input constraints: 2.127203
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.36515299333939616
+State Residual: 0.0
+Dual Input Residual: 0.22353975209919347
+Dual State Residual: 0.451834247850889
+
+=== Solve 164 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.074894
+Attitude error: 0.068954
+
+Costs:
+State cost: 455.994918
+Input cost: 271.227145
+Total cost: 727.222063
+
+Constraint Violations:
+Input constraints: 2.077440
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.3437993808339322
+State Residual: 0.0
+Dual Input Residual: 0.21375985751066578
+Dual State Residual: 0.4660411870230505
+
+=== Solve 165 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.074271
+Attitude error: 0.070942
+
+Costs:
+State cost: 444.046377
+Input cost: 263.432431
+Total cost: 707.478808
+
+Constraint Violations:
+Input constraints: 2.029999
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.3215077376182472
+State Residual: 0.0
+Dual Input Residual: 0.20315691518297765
+Dual State Residual: 0.47821640290968825
+
+=== Solve 166 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.073521
+Attitude error: 0.073159
+
+Costs:
+State cost: 431.750488
+Input cost: 256.227823
+Total cost: 687.978311
+
+Constraint Violations:
+Input constraints: 1.985522
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.29849379789857794
+State Residual: 0.0
+Dual Input Residual: 0.19180868842786758
+Dual State Residual: 0.48812804264228693
+
+=== Solve 167 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.072662
+Attitude error: 0.075605
+
+Costs:
+State cost: 419.388654
+Input cost: 249.638424
+Total cost: 669.027078
+
+Constraint Violations:
+Input constraints: 1.944292
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.27490382881385417
+State Residual: 0.0
+Dual Input Residual: 0.18293032465002335
+Dual State Residual: 0.49565987236343334
+
+=== Solve 168 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.071716
+Attitude error: 0.078265
+
+Costs:
+State cost: 407.196081
+Input cost: 243.651158
+Total cost: 650.847239
+
+Constraint Violations:
+Input constraints: 1.906356
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.25083400425129526
+State Residual: 0.0
+Dual Input Residual: 0.17532571499133234
+Dual State Residual: 0.50081184161309
+
+=== Solve 169 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.070702
+Attitude error: 0.081119
+
+Costs:
+State cost: 395.365390
+Input cost: 238.229154
+Total cost: 633.594545
+
+Constraint Violations:
+Input constraints: 1.871597
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.25048039524956595
+State Residual: 0.0
+Dual Input Residual: 0.16743984569327292
+Dual State Residual: 0.503641827067065
+
+=== Solve 170 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.069641
+Attitude error: 0.084135
+
+Costs:
+State cost: 384.049883
+Input cost: 233.320674
+Total cost: 617.370558
+
+Constraint Violations:
+Input constraints: 1.839788
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.25639251325395473
+State Residual: 0.0
+Dual Input Residual: 0.15933936857643466
+Dual State Residual: 0.5042239541840071
+
+=== Solve 171 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.068551
+Attitude error: 0.087274
+
+Costs:
+State cost: 373.367078
+Input cost: 228.864862
+Total cost: 602.231940
+
+Constraint Violations:
+Input constraints: 1.810621
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.2621859680814742
+State Residual: 0.0
+Dual Input Residual: 0.1510865515173902
+Dual State Residual: 0.5026254300333145
+
+=== Solve 172 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.067449
+Attitude error: 0.090496
+
+Costs:
+State cost: 363.392286
+Input cost: 225.157355
+Total cost: 588.549641
+
+Constraint Violations:
+Input constraints: 1.786143
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.20935157563052603
+State Residual: 0.0
+Dual Input Residual: 0.17350828976789123
+Dual State Residual: 0.53858605931149
+
+=== Solve 173 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.066347
+Attitude error: 0.093757
+
+Costs:
+State cost: 353.870296
+Input cost: 223.936013
+Total cost: 577.806309
+
+Constraint Violations:
+Input constraints: 1.778015
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.2144580944817135
+State Residual: 0.0
+Dual Input Residual: 0.15140764037650992
+Dual State Residual: 0.5381405627415661
+
+=== Solve 174 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.065235
+Attitude error: 0.097287
+
+Costs:
+State cost: 343.862660
+Input cost: 220.982194
+Total cost: 564.844854
+
+Constraint Violations:
+Input constraints: 1.758321
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.22135839206293667
+State Residual: 0.0
+Dual Input Residual: 0.1287249418740368
+Dual State Residual: 0.5192243291701094
+
+=== Solve 175 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.064090
+Attitude error: 0.101215
+
+Costs:
+State cost: 333.292334
+Input cost: 217.843407
+Total cost: 551.135741
+
+Constraint Violations:
+Input constraints: 1.737241
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.19573871634015216
+State Residual: 0.0
+Dual Input Residual: 0.14096338729427388
+Dual State Residual: 0.46711215982723725
+
+=== Solve 176 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.062893
+Attitude error: 0.105282
+
+Costs:
+State cost: 321.946885
+Input cost: 213.447005
+Total cost: 535.393889
+
+Constraint Violations:
+Input constraints: 1.707448
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.2195977627933978
+State Residual: 0.0
+Dual Input Residual: 0.11840754540489068
+Dual State Residual: 0.3788040239529941
+
+=== Solve 177 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.061626
+Attitude error: 0.109218
+
+Costs:
+State cost: 310.255217
+Input cost: 207.642595
+Total cost: 517.897812
+
+Constraint Violations:
+Input constraints: 1.667642
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.2455968317511881
+State Residual: 0.0
+Dual Input Residual: 0.09338971166021735
+Dual State Residual: 0.27342978448828226
+
+=== Solve 178 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.060284
+Attitude error: 0.112833
+
+Costs:
+State cost: 298.839701
+Input cost: 203.196159
+Total cost: 502.035861
+
+Constraint Violations:
+Input constraints: 1.636761
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.17504464500615202
+State Residual: 0.0
+Dual Input Residual: 0.0791680483757505
+Dual State Residual: 0.18046097568646202
+
+=== Solve 179 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.058863
+Attitude error: 0.116074
+
+Costs:
+State cost: 287.933700
+Input cost: 198.007773
+Total cost: 485.941473
+
+Constraint Violations:
+Input constraints: 1.600250
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.22783160771038374
+State Residual: 0.0
+Dual Input Residual: 0.051980574031433774
+Dual State Residual: 0.13240069940980387
+
+=== Solve 180 Details ===
+Iterations needed: 49
+
+Accuracy:
+Position error: 0.057365
+Attitude error: 0.118979
+
+Costs:
+State cost: 278.326807
+Input cost: 183.585384
+Total cost: 461.912191
+
+Constraint Violations:
+Input constraints: 1.495654
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.2596617962278093
+State Residual: 0.0
+Dual Input Residual: 0.06145856374990245
+Dual State Residual: 0.08068156262362444
+Converged after  3  iterations
+
+=== Solve 181 Details ===
+Iterations needed: 3
+
+Accuracy:
+Position error: 0.055852
+Attitude error: 0.121422
+
+Costs:
+State cost: 271.999179
+Input cost: 153.222385
+Total cost: 425.221564
+
+Constraint Violations:
+Input constraints: 1.262799
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.0
+Dual Input Residual: 0.05043033610733714
+Dual State Residual: 0.07374861248942821
+Converged after  1  iterations
+
+=== Solve 182 Details ===
+Iterations needed: 1
+
+Accuracy:
+Position error: 0.054519
+Attitude error: 0.123256
+
+Costs:
+State cost: 271.559914
+Input cost: 134.839877
+Total cost: 406.399791
+
+Constraint Violations:
+Input constraints: 1.110480
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.0
+Dual Input Residual: 0.03043033515794063
+Dual State Residual: 0.11498960274461575
+Converged after  2  iterations
+
+=== Solve 183 Details ===
+Iterations needed: 2
+
+Accuracy:
+Position error: 0.053578
+Attitude error: 0.125244
+
+Costs:
+State cost: 277.123088
+Input cost: 123.668780
+Total cost: 400.791868
+
+Constraint Violations:
+Input constraints: 1.012685
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.0
+Dual Input Residual: 0.019105213257042643
+Dual State Residual: 0.12258353954425555
+Converged after  2  iterations
+
+=== Solve 184 Details ===
+Iterations needed: 2
+
+Accuracy:
+Position error: 0.053138
+Attitude error: 0.128496
+
+Costs:
+State cost: 288.339598
+Input cost: 116.777557
+Total cost: 405.117154
+
+Constraint Violations:
+Input constraints: 0.950240
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.0
+Dual Input Residual: 0.015141300780318435
+Dual State Residual: 0.11955067908103942
+Converged after  2  iterations
+
+=== Solve 185 Details ===
+Iterations needed: 2
+
+Accuracy:
+Position error: 0.053226
+Attitude error: 0.133316
+
+Costs:
+State cost: 304.403360
+Input cost: 112.541003
+Total cost: 416.944363
+
+Constraint Violations:
+Input constraints: 0.911008
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.10047544882630133
+Dual Input Residual: 0.011652006794600892
+Dual State Residual: 0.10274286431535029
+Converged after  15  iterations
+
+=== Solve 186 Details ===
+Iterations needed: 15
+
+Accuracy:
+Position error: 0.053816
+Attitude error: 0.139441
+
+Costs:
+State cost: 324.260565
+Input cost: 109.975539
+Total cost: 434.236103
+
+Constraint Violations:
+Input constraints: 0.886914
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.11760512262608591
+Dual Input Residual: 0.007585596598884789
+Dual State Residual: 0.10076358933747676
+Converged after  19  iterations
+
+=== Solve 187 Details ===
+Iterations needed: 19
+
+Accuracy:
+Position error: 0.054847
+Attitude error: 0.146311
+
+Costs:
+State cost: 346.699691
+Input cost: 108.442539
+Total cost: 455.142230
+
+Constraint Violations:
+Input constraints: 0.872350
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.11494483321784932
+Dual Input Residual: 0.00506867950487783
+Dual State Residual: 0.09796917974270092
+Converged after  20  iterations
+
+=== Solve 188 Details ===
+Iterations needed: 20
+
+Accuracy:
+Position error: 0.056236
+Attitude error: 0.153294
+
+Costs:
+State cost: 370.811333
+Input cost: 107.493120
+Total cost: 478.304453
+
+Constraint Violations:
+Input constraints: 0.863259
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.10781954002901317
+Dual Input Residual: 0.004624645330774592
+Dual State Residual: 0.0707351497962434
+Converged after  27  iterations
+
+=== Solve 189 Details ===
+Iterations needed: 27
+
+Accuracy:
+Position error: 0.057896
+Attitude error: 0.159943
+
+Costs:
+State cost: 395.904259
+Input cost: 106.818832
+Total cost: 502.723091
+
+Constraint Violations:
+Input constraints: 0.856679
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.09132850099850298
+Dual Input Residual: 0.006987579289192095
+Dual State Residual: 0.12895220986562828
+Converged after  26  iterations
+
+=== Solve 190 Details ===
+Iterations needed: 26
+
+Accuracy:
+Position error: 0.059744
+Attitude error: 0.165761
+
+Costs:
+State cost: 421.022638
+Input cost: 106.170912
+Total cost: 527.193549
+
+Constraint Violations:
+Input constraints: 0.850473
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.0820458006601057
+Dual Input Residual: 0.006624173073487227
+Dual State Residual: 0.09019648575606565
+Converged after  27  iterations
+
+=== Solve 191 Details ===
+Iterations needed: 27
+
+Accuracy:
+Position error: 0.061705
+Attitude error: 0.170526
+
+Costs:
+State cost: 446.235387
+Input cost: 105.400915
+Total cost: 551.636302
+
+Constraint Violations:
+Input constraints: 0.843025
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.07464635571257183
+Dual Input Residual: 0.0062485793624501434
+Dual State Residual: 0.06363182045802618
+Converged after  28  iterations
+
+=== Solve 192 Details ===
+Iterations needed: 28
+
+Accuracy:
+Position error: 0.063719
+Attitude error: 0.174437
+
+Costs:
+State cost: 471.084827
+Input cost: 104.413527
+Total cost: 575.498354
+
+Constraint Violations:
+Input constraints: 0.833414
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.0671645789124975
+Dual Input Residual: 0.006376571514512389
+Dual State Residual: 0.05270202703379773
+Converged after  26  iterations
+
+=== Solve 193 Details ===
+Iterations needed: 26
+
+Accuracy:
+Position error: 0.065738
+Attitude error: 0.177611
+
+Costs:
+State cost: 495.184091
+Input cost: 103.170745
+Total cost: 598.354837
+
+Constraint Violations:
+Input constraints: 0.821264
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.06089012981064945
+Dual Input Residual: 0.0063939314809759035
+Dual State Residual: 0.04805528646659726
+Converged after  25  iterations
+
+=== Solve 194 Details ===
+Iterations needed: 25
+
+Accuracy:
+Position error: 0.067725
+Attitude error: 0.180119
+
+Costs:
+State cost: 518.280496
+Input cost: 101.670374
+Total cost: 619.950870
+
+Constraint Violations:
+Input constraints: 0.806507
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.05441856397842404
+Dual Input Residual: 0.006675118643180419
+Dual State Residual: 0.047607905132619505
+Converged after  23  iterations
+
+=== Solve 195 Details ===
+Iterations needed: 23
+
+Accuracy:
+Position error: 0.069652
+Attitude error: 0.182030
+
+Costs:
+State cost: 540.171095
+Input cost: 99.928629
+Total cost: 640.099724
+
+Constraint Violations:
+Input constraints: 0.789254
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.04890971696029567
+Dual Input Residual: 0.006740091879313764
+Dual State Residual: 0.040904641979021716
+Converged after  24  iterations
+
+=== Solve 196 Details ===
+Iterations needed: 24
+
+Accuracy:
+Position error: 0.071499
+Attitude error: 0.183407
+
+Costs:
+State cost: 560.751862
+Input cost: 97.972261
+Total cost: 658.724123
+
+Constraint Violations:
+Input constraints: 0.769700
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.04300064940549708
+Dual Input Residual: 0.006918248583304615
+Dual State Residual: 0.03135638333489224
+Converged after  23  iterations
+
+=== Solve 197 Details ===
+Iterations needed: 23
+
+Accuracy:
+Position error: 0.073251
+Attitude error: 0.184324
+
+Costs:
+State cost: 579.959579
+Input cost: 95.831709
+Total cost: 675.791288
+
+Constraint Violations:
+Input constraints: 0.748080
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.038205034425097484
+Dual Input Residual: 0.007005483073486862
+Dual State Residual: 0.025116004589861803
+Converged after  24  iterations
+
+=== Solve 198 Details ===
+Iterations needed: 24
+
+Accuracy:
+Position error: 0.074901
+Attitude error: 0.184853
+
+Costs:
+State cost: 597.789317
+Input cost: 93.536620
+Total cost: 691.325937
+
+Constraint Violations:
+Input constraints: 0.724622
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.03315065433719866
+Dual Input Residual: 0.007758038031913328
+Dual State Residual: 0.030841050816432063
+Converged after  25  iterations
+
+=== Solve 199 Details ===
+Iterations needed: 25
+
+Accuracy:
+Position error: 0.076443
+Attitude error: 0.185033
+
+Costs:
+State cost: 614.259117
+Input cost: 91.110778
+Total cost: 705.369895
+
+Constraint Violations:
+Input constraints: 0.699504
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+Iteration 0:
+Input Residual: 0.0
+State Residual: 0.02820108179345171
+Dual Input Residual: 0.008998810205543217
+Dual State Residual: 0.04118558429628671
+Converged after  19  iterations
+
+=== Solve 200 Details ===
+Iterations needed: 19
+
+Accuracy:
+Position error: 0.077877
+Attitude error: 0.184838
+
+Costs:
+State cost: 629.471034
+Input cost: 88.581514
+Total cost: 718.052547
+
+Constraint Violations:
+Input constraints: 0.672972
+State constraints: 0.000000
+
+Rho value: 1.000000
+==================================================
+
+Tracking Error Statistics:
+Average L2 Error: 0.0751 meters
+Maximum L2 Error: 0.1280 meters
+
+Simulation completed successfully!
+Average iterations per step: 33.23
+Total iterations: 6645
+Average trajectory cost: 1.2068
+Average control effort: 2.1529

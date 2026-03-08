@@ -1,0 +1,4 @@
+iterations: 33.225
+traj_cost: 1.2067661813960615
+avg_violation: 0.8368730865657554
+max_violation: 2.993529452436106
