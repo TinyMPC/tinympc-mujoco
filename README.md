@@ -1,5 +1,5 @@
-# TinyMPCReference
-A reference implementation of TinyMPC in pure Python. The original C++ implementation can be found [here](https://github.com/TinyMPC/TinyMPC) . 
+# tinympc-mujoco
+A reference implementation of TinyMPC in pure Python with MuJoCo simulation. The original C++ implementation can be found [here](https://github.com/TinyMPC/TinyMPC).
 
 ## Features
 
@@ -22,8 +22,8 @@ autograd
 
 ### Setup
 ```bash
-git clone https://github.com/A2R-Lab/TinyMPCReference.git
-cd TinyMPCReference
+git clone git@github.com:TinyMPC/tinympc-mujoco.git
+cd tinympc-mujoco
 ```
 
 ## Usage
@@ -69,7 +69,3 @@ python3 examples/traj/traj.py --wind
 │       └── traj.py         # Trajectory tracking example
 └── data/                   # Simulation results and metrics
 ```
-
-
-
-## Contact
